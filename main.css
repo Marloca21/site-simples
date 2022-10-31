@@ -5,3 +5,16 @@ body{
         font-family: Arial, Helvetica, sans-serif;
     }
     
+    li {
+        list-style: circle;
+    }
+    .list{
+        list-style: square
+    }
+    #msg{
+        font-family: monospace;
+    }
+    .light-theme{
+        color: black;
+        background:#00FF00;
+    }
